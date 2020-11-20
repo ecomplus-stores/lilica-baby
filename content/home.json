@@ -7,23 +7,124 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
+          "img": "/img/uploads/Copia-de-Copia-de-confiraa.png",
+          "link": "/",
+          "alt": "Primeira Compra",
+          "start": "",
+          "end": ""
         },
         {
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
+          "img": "/img/uploads/confira-9.png",
+          "alt": "Confira Promo",
           "start": "",
           "end": ""
         }
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/fretes-3.png",
+          "mobile_img": "/img/uploads/fretes-movel-2.png",
+          "alt": "Tarja Informações de Venda da loja",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/mine-banner-ambar.png",
+          "alt": "Ambar",
+          "link": ""
+        },
+        {
+          "img": "/img/uploads/mine-banner-mamadeiras-nuk.png",
+          "alt": "Mamadeiras nuk",
+          "link": ""
+        },
+        {
+          "img": "/img/uploads/Mine-banner-skip-hop-lilica-baby.png",
+          "alt": "Skip Hob",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/2.png",
+          "alt": "Ambar",
+          "link": ""
+        },
+        {
+          "img": "/img/uploads/3.png",
+          "alt": "Mamadeiras nuk",
+          "link": ""
+        },
+        {
+          "img": "/img/uploads/4.png",
+          "alt": "Skip Hob",
+          "link": ""
+        },
+        {
+          "img": "/img/uploads/5.png",
+          "alt": "Ambar",
+          "link": ""
+        },
+        {
+          "img": "/img/uploads/6.png",
+          "alt": "Mamadeiras nuk",
+          "link": ""
+        },
+        {
+          "img": "/img/uploads/7.png",
+          "alt": "Skip Hob",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/8.png",
+          "alt": "Ambar",
+          "link": ""
+        },
+        {
+          "img": "/img/uploads/9.png",
+          "alt": "Mamadeiras nuk",
+          "link": ""
+        },
+        {
+          "img": "/img/uploads/10.png",
+          "alt": "Skip Hob",
+          "link": ""
+        },
+        {
+          "img": "/img/uploads/11.png",
+          "alt": "Ambar",
+          "link": ""
+        },
+        {
+          "img": "/img/uploads/12.png",
+          "alt": "Mamadeiras nuk",
+          "link": ""
+        },
+        {
+          "img": "/img/uploads/13.png",
+          "alt": "Skip Hob",
+          "link": ""
+        }
+      ]
+    },
+    {
       "type": "info-bar",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "collection-shelf",
@@ -31,11 +132,6 @@
       "collection_id": null,
       "limit": 12,
       "page": 1
-    },
-    {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
     }
   ]
 }

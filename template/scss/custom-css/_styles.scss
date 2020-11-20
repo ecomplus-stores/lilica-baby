@@ -1,1 +1,50 @@
 // Add your custom CSS here.
+.top-bar {
+  background: #fff0d9;
+}
+.footer {
+  background: #ade2ff;
+  border-top: 0;
+}
+
+.header {
+  @media(min-width: 992px) {
+    &__logo {
+    max-width: 400px;
+    max-height: 100px;
+    }
+  }
+
+  &__search {
+      border-radius: 25px;
+  }
+
+  #menu {
+    background: #fff0d9;
+    padding: 7px;
+  }
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+  background: #fff url(/img/uploads/FUNDO-CABEcALHO.jpg);
+  color: #030303;
+  background-size: auto 100%;
+}
+.product-item {
+  padding: 16px 12px 21px;
+  border: 1px solid #ff7f9f;
+  text-align: center;
+  border-radius: 25px;
+}
+.product-card__buy {
+  & button {
+    color: #fff;
+    background: #ff7f9f;
+    border-color: #ffa0b8;
+    font-size: 18px;
+    text-transform: uppercase;
+  }
+  &.fade {
+   opacity: 1 !important;
+ }
+}
